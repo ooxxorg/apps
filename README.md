@@ -1,6 +1,10 @@
-# 快蜂云 | 快蜂云机场 | HHCloud.xyz
-快蜂云免费提供快速，安全，匿名网络代理服务。公益机场，完全免费。
+# 快蜂云 | 公益机场 | 全民福利
 
-- 最新网址     https://www.hhcloud.xyz
-- Telegram官方频道 	https://t.me/kuaifengyun
-- Telegram交流群 	  https://t.me/kuaifengyungroup	
+提供**快速，安全，匿名，稳定**虚拟网络服务,拥有最佳日本、韩国、香港、新加坡、美国高速专线。
+- 记住最新网址 https://hhcloud.xyz
+- 收藏防止失联网址  https://fastfeng.com
+- 收藏防止失联网址  https://github.com/ooxxorg/apps/blob/main/README.md
+- Telegram官方频道 https://t.me/fastfeng_channel
+- Telegram官方群组 https://t.me/fastfeng 
+- Telegram官方客服 @xiaruoxi
+- 下载客户端地址 https://1drv.ms/f/s!AmxlljlV_AcKamrLsBriwcZskHw?e=dnF0jJ
