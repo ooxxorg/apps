@@ -7,4 +7,4 @@
 - Telegram官方频道 https://t.me/fastfeng_channel
 - Telegram官方群组 https://t.me/fastfeng 
 - Telegram官方客服 @xiaruoxi
-- 下载客户端地址 https://1drv.ms/f/s!AmxlljlV_AcKamrLsBriwcZskHw?e=dnF0jJ
+- 下载客户端地址 https://1drv.ms/f/s!AmxlljlV_AcKamrLsBriwcZskHw?e=BxPVeF
